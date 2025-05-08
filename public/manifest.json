@@ -1,0 +1,22 @@
+
+{
+  "short_name": "Philipe Coutinho",
+  "name": "Philipe Coutinho - Web3 e Blockchain",
+  "icons": [
+    {
+      "src": "/lovable-uploads/e1726b5f-1e11-4dc7-8581-6cffdeebe4c5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/lovable-uploads/e1726b5f-1e11-4dc7-8581-6cffdeebe4c5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
